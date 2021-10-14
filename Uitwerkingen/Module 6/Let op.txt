@@ -1,0 +1,6 @@
+1) Alle solutions in de uitwerkingen zijn 'unmanaged' geexporteerd
+om ze eenvoudig wijzigbaar te houden voor de deelnemers
+
+2) Let erop dat de versienummers van de uitwerkingen kunnen verschillen
+van je eigen oplossingen. Dit heeft te maken met tussentijdse exports
+die voor de uitwerkingen zijn gedaan.
