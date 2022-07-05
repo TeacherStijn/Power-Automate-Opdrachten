@@ -1,0 +1,4 @@
+cr1c3_achternaam,cr1c3_email,importsequencenumber,cr1c3_klantid,cr1c3_klantcode,cr1c3_laatstbesteld,statuscode,statecode,timezoneruleversionnumber,utcconversiontimezonecode,versionnumber,cr1c3_voornaam,owningbusinessunit
+de Dummy,dummy@gmail.com,,5ac067ae-3efc-ec11-82e5-0022489e1f3c,a3,4/4/2022 10:00:00 PM,Active,Active,4,,1124929,Dummy,d72b33a5-f3f3-ec11-bb3d-0022489e2f90
+Janssen,info@stijnjanssen.nl,,586e1e9e-3efc-ec11-82e5-0022489e1f3c,a2,6/16/2020 10:00:00 PM,Active,Active,4,,1124927,Stijn,d72b33a5-f3f3-ec11-bb3d-0022489e2f90
+Hendriksen,henk@hendriksen.nl,,2161ca87-3efc-ec11-82e5-0022489e1f3c,a1,4/18/2022 10:00:00 PM,Active,Active,4,,1124925,Henk,d72b33a5-f3f3-ec11-bb3d-0022489e2f90
