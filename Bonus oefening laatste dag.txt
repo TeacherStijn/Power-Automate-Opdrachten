@@ -1,0 +1,22 @@
+Maak een solution
+Maak daarin een tabel met klachten
+(o.a. een soort en prio/rating, status en omschrijving)
+Maak een flow in deze solution,
+deze flow dient:
+ - de tabel te doorlopen te worden en voor alle 
+   klachten met status X moet er een notificatie worden
+   gestuurd
+
+ - gebruik de AI builder om te kijken of de klant
+   boos / geirriteerd is (tip: gebruik omschrijving kolom)
+   en stuur de notificatie enkel indien de klanten boos zijn
+
+ - zorg dat er een connectie referentie naar de Dataverse
+   in de solution staat
+
+ - exporteer de hele solution
+
+ - maak een connectie in de target environment naar de
+   Dataverse (e.v.t. met app registration in Azure)
+
+ - importeer de solution in de target environment 
